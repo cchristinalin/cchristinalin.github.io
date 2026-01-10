@@ -1,0 +1,127 @@
+layout: default
+title: "Christina Lin"
+description: "Mechanical Engineering student — portfolio showcasing circuits, MOSFET designs, CAD, and data analysis."
+---
+---
+layout: default
+title: "Christina Lin"
+description: "Mechanical Engineering student — portfolio showcasing circuits, MOSFET designs, CAD, and data analysis."
+---
+      <a href="#contact" class="btn secondary">Contact</a>
+    </div>
+  </div>
+</header>
+
+<nav class="top-nav">
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<main>
+  <section id="about" class="section">
+    <h2>About</h2>
+    <p>
+      Hi, I am <strong>Christina Lin</strong>, a Mechanical Engineering student interested in applying
+      engineering, data analysis, and computation to real-world systems. I enjoy building, testing,
+      and analyzing systems, whether they are physical (like circuits and mechanisms) or digital
+      (like data pipelines and simulations).
+    </p>
+    <p>
+            <li><a href="assets/files/Christina_Lin_KAW_Final_Presentation.pdf" target="_blank">Internship Final Presentation (PDF)</a></li>
+          </ul>
+      digital logic (Logicly), and engineering-focused software tools.
+    </p>
+  </section>
+
+  <section id="projects" class="section">
+    <h2>Projects</h2>
+
+    <div class="projects-grid">
+
+      <article class="project-card">
+        <h3>LTSpice Circuit Design</h3>
+        <p>
+          Designed and simulated analog and power circuits in LTSpice, exploring filters,
+          transient response, and steady-state behavior. Includes schematics, simulation setups, and analysis notes.
+        </p>
+        <ul class="project-links">
+          <li><a href="assets/files/ltspice-projects.zip" target="_blank">Download LTSpice files</a></li>
+          <li><a href="assets/files/ltspice-summary.pdf" target="_blank">View project summary (PDF)</a></li>
+        </ul>
+      </article>
+
+      <article class="project-card">
+        <h3>MOSFET Logic Gate Designs (Intro to EE)</h3>
+        <p>
+          Designed and tested logic gates implemented with MOSFETs for the final project in Intro to Electrical Engineering.
+          Includes circuit descriptions, analysis, and test results.
+        </p>
+        <ul class="project-links">
+          <li><a href="assets/files/1201_Intro_to_EE_Final_Project.pdf" target="_blank">Download project PDF</a></li>
+        </ul>
+      </article>
+
+      <article class="project-card">
+        <h3>NASA Micro-G NExT Regolith Sampler</h3>
+        <p>
+          Contributed to the design of a lunar regolith sampling device as part of the Columbia Space Initiative.
+          Worked on CAD modeling, mechanical descriptions, and design documentation for a NASA-accepted proposal.
+        </p>
+          <ul class="project-links">
+            <li><a href="assets/files/2025_Proposal_Columbia_ASTROID.pdf" target="_blank">Project Proposal (PDF)</a></li>
+          </ul>
+      </article>
+
+      <article class="project-card">
+        <h3>Water Infrastructure Analysis</h3>
+        <p>
+          Engineering internship work with Kentucky American Water using ArcGIS, Python, and hydraulic modeling
+          tools to analyze water system performance, visualize infrastructure, and support data-driven decisions.
+        </p>
+          <ul class="project-links">
+            <li><a href="assets/files/Christina_Lin_KAW_Final_Presentation.pdf" target="_blank">Internship Final Presentation (PDF)</a></li>
+          </ul>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="skills" class="section">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div>
+        <h3>Technical</h3>
+        <ul>
+          <li>Python, MATLAB</li>
+          <li>LTSpice, MOSFET circuit design</li>
+          <li>CAD (SolidWorks or similar)</li>
+          <li>GIS tools (ArcGIS)</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Focus Areas</h3>
+        <ul>
+          <li>Circuit design and simulation</li>
+          <li>Digital logic systems</li>
+          <li>Data analysis and visualization</li>
+          <li>Mechanical and ocean-related engineering</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <p>
+      I am always open to talking about engineering, research, or potential opportunities.
+      Feel free to reach out.
+    </p>
+    <ul class="contact-list">
+      <li>Email: <a href="mailto:you@columbia.edu">cl4623@columbia.edu</a></li>
+      <li>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/cchristinalin</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">linkedin.com/in/christina-lin-965059274/</a></li>
+    </ul>
+  </section>
+</main>

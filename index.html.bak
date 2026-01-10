@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Christina Lin"
+description: "Backup of original index.html source"
+---
+
+<!-- Backup of original homepage source -->
+
+<header class="hero">
+  <div class="hero-content">
+    <h1>Christina Lin</h1>
+    <p class="hero-subtitle">
+      Mechanical Engineering student | Technical projects in circuits, MOSFET designs, and data-driven engineering
+    </p>
+    <div class="hero-links">
+      <a href="#projects" class="btn primary">View Projects</a>
+      <a href="#contact" class="btn secondary">Contact</a>
+    </div>
+  </div>
+</header>
+
+<!-- (rest of content backed up) -->

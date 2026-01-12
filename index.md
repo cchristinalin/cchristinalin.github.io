@@ -44,7 +44,7 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
           Circuit that monitors a phone audio output jack and lights an LED when a signal above 100mV peak is detected. The LED latches on until manually reset. Includes schematic, simulation waveform screenshots, and design notes.
         </p>
         <ul class="project-links">
-          <li><a href="assets/files/LTSpice_LED_Trigger_Schematic.pdf" target="_blank">Download schematic / report (PDF)</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/LTSpice_LED_Trigger_Schematic.pdf" target="_blank">Download schematic / report (PDF)</a></li>
         </ul>
       </article>
 
@@ -54,7 +54,7 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
           Function generator design implemented without a dedicated voltage source; outputs a sinusoidal waveform using passive and active building blocks. Includes circuit, simulation results, and usage notes.
         </p>
         <ul class="project-links">
-          <li><a href="assets/files/LTSpice_Function_Generator.pdf" target="_blank">Download schematic / report (PDF)</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/LTSpice_Function_Generator.pdf" target="_blank">Download schematic / report (PDF)</a></li>
         </ul>
       </article>
 
@@ -64,7 +64,7 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
           Designed and tested logic gates implemented with MOSFETs for the final project in Intro to Electrical Engineering. Includes circuit descriptions, analysis, and test results.
         </p>
         <ul class="project-links">
-          <li><a href="assets/files/1201_Intro_to_EE_Final_Project.pdf" target="_blank">Download project PDF</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/1201_Intro_to_EE_Final_Project.pdf" target="_blank">Download project PDF</a></li>
         </ul>
       </article>
 
@@ -74,7 +74,7 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
           Contributed to the design of a lunar regolith sampling device as part of the Columbia Space Initiative. Worked on CAD modeling, mechanical descriptions, and design documentation for a NASA-accepted proposal.
         </p>
         <ul class="project-links">
-          <li><a href="assets/files/2025_Proposal_Columbia_ASTROID.pdf" target="_blank">Project Proposal (PDF)</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/2025_Proposal_Columbia_ASTROID.pdf" target="_blank">Project Proposal (PDF)</a></li>
         </ul>
       </article>
 
@@ -84,8 +84,8 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
           Internship work with Kentucky American Water using ArcGIS and hydraulic modeling tools to analyze water system performance, visualize infrastructure, and support data-driven decisions.
         </p>
         <ul class="project-links">
-          <li><a href="assets/files/Christina_Lin_KAW_Final_Presentation.pdf" target="_blank">Internship Final Presentation (PDF)</a></li>
-          <li><a href="assets/files/Pressure_Reducing_Valve_Schematics.pdf" target="_blank">Pressure Reducing Valve Schematics (PDF)</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/Christina_Lin_KAW_Final_Presentation.pdf" target="_blank">Internship Final Presentation (PDF)</a></li>
+          <li><a href="https://github.com/cchristinalin/cchristinalin.github.io/releases/download/v1.0/Pressure_Reducing_Valve_Schematics.pdf" target="_blank">Pressure Reducing Valve Schematics (PDF)</a></li>
         </ul>
       </article>
 

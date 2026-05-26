@@ -122,7 +122,7 @@ description: "Mechanical Engineering student — portfolio showcasing circuits, 
       I am always open to talking about engineering, research, or potential opportunities. Feel free to reach out.
     </p>
     <ul class="contact-list">
-      <li>Email: <a href="mailto:cl4623@columbia.edu">cl4623@columbia.edu</a></li>
+      <li>Email: <a href="mailto:clin041206@gmail.com">clin041206@gmail.com</a></li>
       <li>GitHub: <a href="https://github.com/cchristinalin" target="_blank">github.com/cchristinalin</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/christina-lin-965059274/" target="_blank">linkedin.com/in/christina-lin-965059274/</a></li>
     </ul>
